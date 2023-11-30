@@ -14,4 +14,6 @@ mod HelloStarknet {
         Hello(caller, message);
     }
 //I think I need to address that
+
+//Maybe a nice starting point
 }
