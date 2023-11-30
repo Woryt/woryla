@@ -13,5 +13,5 @@ mod HelloStarknet {
         let caller = get_caller_address();
         Hello(caller, message);
     }
-//think
+//I think I need to address that
 }
