@@ -17,4 +17,6 @@ mod HelloStarknet {
 
 //Maybe a nice starting point
 //not sure How to integrate in the project
+
+//Need to recruit flo
 }
