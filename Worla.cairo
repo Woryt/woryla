@@ -20,5 +20,5 @@ mod HelloStarknet {
 
 //Need to recruit flo
 
-// just found somethig
+// just found something
 }
